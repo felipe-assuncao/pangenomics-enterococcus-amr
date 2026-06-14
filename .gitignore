@@ -1,0 +1,22 @@
+# Arquivos brutos do NCBI
+*.gbf
+*.gbff
+*.zip
+*.faa
+ncbi_dataset/
+
+# Pastas de resultados massivos
+lotes_concluidos/
+Results_*/
+Positions*/
+Tabular_*/
+
+# Arquivos de log e erros temporários
+*.log
+*.err
+*.csv
+
+# Ambiente virtual do Python
+panvita_linux_env/
+__pycache__/
+
